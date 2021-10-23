@@ -1,5 +1,4 @@
-## Hello there 👋
-## Swapnadeep Mukherjee this side.
+## Hello there(👋). It's Swapnadeep this side.
 
 - 🔭 I’m currently working at Tata Consultancy Services (https://www.tcs.com/)
 - 🌱 I’m currently learning Python & AWS.
