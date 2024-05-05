@@ -1,6 +1,6 @@
 ## Hello there(👋). It's Swapnadeep this side.
 
-- 🔭 I’m currently working at as a Senior Software Engineer at  [International Business Machines Corporation(IBM)](https://www.ibm.com/in-en) | ex-[Tata Consultancy Services](https://www.tcs.com/)
+- 🔭 I’m currently working as a Senior Software Engineer at  [International Business Machines Corporation(IBM)](https://www.ibm.com/in-en) | ex-[Tata Consultancy Services](https://www.tcs.com/)
 - 🌱 I’m currently working on **Python and AWS**. Broader interests cover different aspects of **Data Science**. 
 - 👯 I’m looking to collaborate on Github, LinkedIn.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swapnadeepmukherjee/), [Twitter](https://twitter.com/swapnadeepsm93)
